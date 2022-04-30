@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srdja</h1>
-<h3 align="center">A full stack web developer with great passion for interesting projects.</h3>
+<h3 align="center">A full stack web developer with great passion for interesting projects and new technologies.</h3>
 
 - 🔭 I’m currently working on **several freelance projects**
 
