@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srdja</h1>
 <h3 align="center">A full stack web developer with great passion for interesting projects and new technologies.</h3>
 
-- 🔭 I’m currently working on **several freelance projects**
+- 🔭 I’m currently working on **several freelance and personal projects**
 
 - 💼 I'm currently employed as full stack web developer at **i-Logic Internet Marketing Solutions.**
 
