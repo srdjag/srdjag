@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **several freelance and personal projects**
 
-- 💼 I'm currently employed as full stack web developer at **i-Logic Internet Marketing Solutions.**
+- 💼 I'm currently employed as full stack web developer at **LoginEKO.**
 
 - 📫 How to reach me **srdjagunjic@gmail.com**
 
